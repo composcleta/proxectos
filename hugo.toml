@@ -1,5 +1,45 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'es-es'
 title = 'My New Hugo Site'
 
+# as the official Hugo documentation recommends, we turn this off for this
+# showcase; this allows the published site to be served by both http and https
+canonifyURLs = false
+# required for official documentation served from subfolder
+relativeurls = true
+
+# Change the default theme to be use when building the site with Hugo
 theme = 'hugo-theme-relearn'
+
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "SEARCH"]
+
+# settings specific to this theme's features; choose to your likings and
+# consult this documentation for explaination
+[params]
+showVisitedLinks = true
+collapsibleMenu = true
+disableBreadcrumb = false
+disableNextPrev = false
+disableLandingPageButton = false
+
+# No quiero que rompa las líneas en los bloques de texto pre-formateado
+# https://mcshelby.github.io/hugo-theme-relearn/shortcodes/highlight/index.html#configuration
+highlightWrap = false
+
+# Variaciones de color del tema
+themeVariant = [ "blue", "relearn-light", "relearn-dark", "learn", "neon",  "green", "red" ]
+
+# Configuración de la barra de navegación
+disableToc = false
+alwaysopen = false
+
+[[menu.main]]
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-code-branch'></i> Contribuir"
+identifier = "contributing"
+url = "https://gitlab.com/enrique.agrasar/wiki/-/blob/main/CONTRIBUTING.md"
+weight = 15
