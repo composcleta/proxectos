@@ -6,9 +6,12 @@ RUN apt-get update && \
     apt-get clean
 
 # Instalar Hugo
-RUN wget https://github.com/gohugoio/hugo/releases/download/v0.136.5/hugo_extended_0.136.5_Linux-64bit.tar.gz && \
-    tar -xzf hugo_extended_0.136.5_Linux-64bit.tar.gz && \
-    mv hugo /usr/local/bin
+ENV HUGO_VERSION="v0.136.5"
+ENV HUGO_TYPE="extended"
+
+RUN wget https://github.com/gohugoio/hugo/releases/download/${HUGO_VERSION}/hugo_${HUGO_TYPE}_${HUGO_VERSION}_Linux-64bit.tar.gz && \
+    tar -xzf hugo_${HUGO_TYPE}_${HUGO_VERSION}_Linux-64bit.tar.gz && \
+    mv hugo /usr/local/bin/
 
 # Configurar directorio de trabajo
 WORKDIR /app
