@@ -23,6 +23,8 @@ Antecedentes
 - Artículo 'La Voz de Galicia': [*La senda que da acceso al colegio Agro do Muíño tendrá carril bici*][3]
 
 - Mientras se desarrollaba este documento, el 30 de noviembre de 2018, se instalaron señalizaciones verticales que posibilitan utilizar la senda fluvial de las Brañas do Sar para uso ciclista, un hito significativo de la propuesta.
+  
+  ![Sinalética sobre a actual senda das Brañas de Sar](img/sinaletica-sar.png)
 
 <!-- Referencias externas -->
 [1]: https://decide.santiagodecompostela.gal/#/proposal/8e15eff1-92b6-487a-9db7-65c390a1c8ae
