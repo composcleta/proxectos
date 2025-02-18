@@ -11,19 +11,23 @@ relativeurls = true
 # Change the default theme to be use when building the site with Hugo
 theme = 'hugo-theme-relearn'
 
+defaultContentLanguage = 'en'
+landingPageName = '<i class="fa-fw fas fa-anchor"></i> Home'
 
 # For search functionality
 [outputs]
-home = [ "HTML", "RSS", "SEARCH"]
+home = [ "HTML", "RSS"]
 
 # settings specific to this theme's features; choose to your likings and
 # consult this documentation for explaination
 [params]
-showVisitedLinks = true
-collapsibleMenu = true
-disableBreadcrumb = false
-disableNextPrev = false
-disableLandingPageButton = false
+    showVisitedLinks = true
+    collapsibleMenu = true
+    disableBreadcrumb = false
+    disableNextPrev = false
+    disableLandingPageButton = false
+    disableShortcutsTitle = false
+
 
 # No quiero que rompa las líneas en los bloques de texto pre-formateado
 # https://mcshelby.github.io/hugo-theme-relearn/shortcodes/highlight/index.html#configuration
@@ -36,10 +40,14 @@ themeVariant = [ "blue", "relearn-light", "relearn-dark", "learn", "neon",  "gre
 disableToc = false
 alwaysopen = false
 
-[[menu.main]]
+[[menu.shortcuts]]
+    name = "<i class='fas fa-code-branch'></i> Home Web"
+    identifier = "homeComposcletaOrg"
+    url = "https:/www.composcleta.org"
+    weight = 1
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-code-branch'></i> Contribuir"
-identifier = "contributing"
-url = "https://gitlab.com/enrique.agrasar/wiki/-/blob/main/CONTRIBUTING.md"
-weight = 15
+    name = "<i class='fas fa-code-branch'></i> Contribuir"
+    identifier = "contributing"
+    url = "https://gitlab.com/enrique.agrasar/wiki/-/blob/main/CONTRIBUTING.md"
+    weight = 15

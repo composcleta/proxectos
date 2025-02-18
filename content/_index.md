@@ -1,7 +1,8 @@
-+++
-archetype = "home"
-title = "Proyectos: Grupos de trabajo y propuestas"
-+++
+---
+archetype: "home"
+title: "Proyectos: Grupos de trabajo y propuestas"
+weight: 1
+---
 
 A continuación podrás ver documentos de trabajo que la asociación publica respecto a diferentes propuestas o ideas sobre la movilidad sostenible.
 

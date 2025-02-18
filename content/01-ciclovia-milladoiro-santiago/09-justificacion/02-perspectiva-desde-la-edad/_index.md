@@ -1,6 +1,6 @@
 +++
-title = 'Seguridad del recorrido y edades'
-linktitle = 'Seguridad y edades'
+title = 'Perspectiva desde la edad. Seguridad del recorrido y edades'
+linktitle = 'Perspectiva por edad'
 date = 2024-09-28T11:11:29+02:00
 draft = false
 weight = 2
