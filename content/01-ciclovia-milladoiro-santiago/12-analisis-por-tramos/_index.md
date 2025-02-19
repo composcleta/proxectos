@@ -23,7 +23,7 @@ A continuación se presenta la tabla que identifica cada segmento y la distancia
 
 | Tramo  | Distancia | Descripción |
 |---|---|---|
-| Tramo A | 1.100 m | Corresponde al inicio desde el límite administrativo del Concello de Santiago que linda con Ames y concretamente con el núcleo urbano de O Milladoiro. Termina en el concesionario de coches Yáñez. |
+| [Tramo A][A] | 1.100 m | Corresponde al inicio desde el límite administrativo del Concello de Santiago que linda con Ames y concretamente con el núcleo urbano de O Milladoiro. Termina en el concesionario de coches Yáñez. |
 | Tramo Oeste-B | 1.340 m | Continuando por la SC-20 por la margen izquierda en dirección Santiago, implicaría la construcción de un paso inferior a la rotonda de Volta do Castro. |
 | Tramo Oeste-C | 1.400 m | Esta alternativa sigue la carretera principal de entrada a Santiago desde Pontevedra, por la rúa de Volta do Castro, hasta la rotonda de la carretera de circunvalación con Romero Donallo. Es la entrada más directa para el centro de la ciudad. |
 | Tramo Oeste-D | 750 m | Esta alternativa continúa por la carretera de entrada a Santiago por la Avda De Rosalía de Castro. |
@@ -42,3 +42,6 @@ Y a continuación las distancias totales de la infraestructura:
 | Total Ramal Oeste (+1.100m tramo A) | 3.490 m |
 | Total Ramal Este(+1.100m tramo A)   | 7.676 m |
 | **Total Infraestructura**           | **12.266 m** |
+
+<!-- Enlaces -->
+[A]: 01-tramo-a/ 'Tramo A'
