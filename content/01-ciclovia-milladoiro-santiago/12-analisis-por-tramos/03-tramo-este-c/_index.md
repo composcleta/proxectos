@@ -79,7 +79,7 @@ Atendiendo al tramo E-C1 en su conjunto y en relación a sus posible alternativa
 
 - Tramo de perfil moderadamente plano.
 - Aprovechamiento de valiosa infraestructura, que ha dejado de tener uso o propósito y que no requiere de un gran esfuerzo de acondicionamiento para el uso como vía ciclista-peatonal.
-- Trazado muy adecuado para la bicicleta por reunir en buena parte de su recorrido las condiciones de una vía verde. 
+- Trazado muy adecuado para la bicicleta por reunir en buena parte de su recorrido las condiciones de una vía verde.
 - La posibilidad poder realizar un recorrido anchura y seguro para ciclistas y peatones, así como el acceso a Vehículos de Movilidad Personal.
 - Recorrido de tráfico completamente separado de tráfico motorizado.
 - Tranquilidad de su recorrido en ausencia de ruido.
@@ -134,7 +134,7 @@ Continúa el recorrido por la Rúa da Poza Real de Abaixo hasta llegar a un cruc
 
 Se continúa todo recto entrando en la Rúa da Benéfica de Conxo, en la que hay espacio suficiente para una segregación fuerte en forma de carril bici, aunque sacrificando necesariamente zona de aparcamiento para coches.
 
-![](img/tramo-c1-rua-benefica-conxo.png)
+![Rúa Benéfica de Conxo en sentido hacia Santiago](img/tramo-c1-rua-benefica-conxo.png)
 
 > Rúa Benéfica de Conxo en sentido hacia Santiago.
 
