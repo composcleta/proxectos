@@ -42,11 +42,29 @@ Esta alternativa debe atravesar la SC-20 situándose en el sentido Santiago de c
 
 ## Tramo E-B1
 
-<!-- TODO: -->
+Pasada la pasarela se continúa en dirección Santiago y compartiendo sentido de marcha con el tráfico motorizado. En este punto es reseñable el acceso al parking del restaurante “El Puente”. El tráfico viene entorno a una velocidad de 60-80km/h, y sin carril de deceleración se accede directamente al parking. Si en ese momento cruzase un peatón o un ciclista provocaría una situación muy peligrosa dada la tremenda deceleración que debe hacer el vehículo y el tráfico veloz que le sucede y puede darle alcance. Es un punto muy peligroso en la actualidad, ya que carece de señalización horizontal y vertical, y no se dan las condiciones para que sea, tal y como está, un itinerario seguro para ciclistas o peatones.
+
+![Parking restaurante El Puente](img/parking-restaurante-el-puente.png)
+
+> Tramo E-B1. Ya es un punto muy peligroso en la actualidad
+
+Pasado el restaurante El Puente, se toma a mano derecha un sendero que confluye con su alternativa en el paso soterrado de la vía del tren.
+
+Esta propuesta acorta el recorrido en más de 200m frente a su alternativa y tiene un perfil muy plano (a falta de la pasarela y algo de desnivel en el sendero), lo que la hace prioritaria sobre su alternativa.
+
+![Sendero paralelo a la vía del tren junto al restaurante El Puente](img/sendero-paralelo-via-tren-restaurante-el-puente.png)
+
+> Tramo E-B1. Sendero paralelo a la vía para re acondicionar
 
 ## Tramo E-B2
 
-<!-- TODO: -->
+Pasada la pasarela de la SC-20, esta alternativa pretende evitar el peligroso tramo del parking del restaurante El Puente, a costa de un mayor recorrido (más de 200m), un desnivel menos favorable y un paso soterrado sobre la vía (actualmente escalonado). Su principal dificultad es la necesidad de ir en sentido contrario a la marcha del tráfico motorizado, lo que implica la necesidad de segregar fuertemente un carril bici. Se puede ver en la siguiente imagen que existe espacio para hacer efectiva esta separación.
+
+Sería necesario el acondicionamiento de la rotonda que une con la Rúa da Poza Real de Arriba. Además, sería necesario el acondicionamiento del paso soterrado de la vía del tren, actualmente escalonado, y se tendría que estudiar la viabilidad de hacerlo ciclable. Existe la posibilidad, siguiendo la calzada, de utilizar el paso soterrado para vehículos motorizados, lo que implicaría más recorrido y penalizar más el perfil del tramo.
+
+![Opción contrasentido segregado en la SC-20](img/contrasentido-sc20.png)
+
+Esta propuesta de tramo presenta más dificultades que su alternativa. Tiene un perfil más pronunciado, más recorrido, dificultad de separación, y por tanto necesidad de más inversión. El único punto fuerte es que se evita el paso del parking del restaurante El Puente y el acceso al sendero.
 
 ## Estado actual
 

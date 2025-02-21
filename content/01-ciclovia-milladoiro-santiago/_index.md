@@ -1,7 +1,7 @@
 +++
 title = 'Propuesta Ciclovía: O Milladoiro - Santiago'
 linktitle = 'Ciclovía Milladoiro-Santiago'
-date = 2024-09-28T11:11:29+02:00
+date = 2025-02-19T11:11:29+02:00
 draft = false
 weight = 1
 +++
@@ -26,10 +26,16 @@ En estos enlaces dispones de los recursos en PDF de la propuesta:
 
 ## Nuestra propuesta original
 
-A continuación exponemos nuestra propuesta original del año 2019.
+A continuación exponemos nuestra propuesta original del año 2019. Esta propuesta se empezó a desarrollar en el año 2022 por la Xunta de Galicia y financiado por la Unión Europea con los fondos *NextGenerationEU*, tal y como se expresa en la memoria técnica de la Administración Autonómica:
 
-> [!WARNING]
-> Ten en cuenta que nuestra propuesta original **se ha mejorado sustancialmente en el actual proyecto de ejecución de la *Axencia Galega de Infraestructuras*** de la Ciclovía Santiago-Milladoiro, en Septiembre del 2022, y gracias a los Fondos Europeos *Next-Generation*. Se ha modificado el trazado inicialmente propuesto pero conservando su ensencia y propósito.
+> Se debe señalar como antecedente técnico el documento Propuesta Vía Ciclista Peatonal
+Santiago – O Milladoiro, redactado por la Asociación Cívica Composcleta, cuyo objetivo
+principal es: “reclamar un recorrido entre Santiago de Compostela y O Milladoiro que permita
+el desplazamiento en bicicleta, a pie, en silla de ruedas o en vehículos para personas con
+movilidad reducida.”, dicho documento es redactado en abril de 2019.
+
+[!WARNING]
+Ten en cuenta que nuestra propuesta original **se ha mejorado sustancialmente en el actual proyecto de ejecución de la *Axencia Galega de Infraestructuras*** de la Ciclovía Santiago-Milladoiro, en Septiembre del 2022, y gracias a los Fondos Europeos *Next-Generation*. Se ha modificado el trazado inicialmente propuesto pero conservando su ensencia y propósito.
 
 {{< children sort='weight' depth=3 >}}
 
