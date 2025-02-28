@@ -9,6 +9,15 @@ weight = 4
 |---|---|---|---
 | Sin alternativas | Tramo Este-D | 749 m | Partiendo el parque del Banquete de Conxo, del paseo fluvial de las Brañas do Sar, continua paralelo al río hasta llegar al paso soterrado que atraviesa la Avenida de Santiago de Cuba (SC-11) y las vías del tren, donde se bifurcan hacia Pontevedra y Ourense.
 
+- [Estado actual](#estado-actual)
+  - [Fortalezas](#fortalezas)
+  - [Debilidades](#debilidades)
+- [Estado con ciclovía](#estado-con-ciclovía)
+  - [Oportunidades](#oportunidades)
+  - [Amenazas](#amenazas)
+- [Perfil del Tramo](#perfil-del-tramo)
+- [Sobre el Mapa](#sobre-el-mapa)
+
 Situados en el parque del Banquete de Conxo se toma la senda de las Brañas do Sar pasando frente al Hospital de Conxo a mano derecha. Se puede acceder fácilmente a este bien por unas escaleras situadas junto al Parque do Banquete o bien utilizando la calzada que se sitúa unos metros más adelante una vez pasado el parque.
 
 Este parque constituye un sitio de ocio y tiempo libre en el que además tuvo lugar un acontecimiento histórico importante para la ciudad y para la memoria colectiva gallega:  el 2 de marzo de 1856, universitarios de las clases más elevadas brindaron juntos por la libertad, igualdad y fraternidad, sirviendo un banquete a las clases más humildes de obreros y artesanos de la ciudad. Actualmente es motivo de una fiesta anual en el mes de abril donde se recuerda este hecho.
