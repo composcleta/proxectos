@@ -5,6 +5,10 @@ draft = false
 weight = 7
 +++
 
+{{% notice style="warning" %}}
+  En la actualidad se está actuando o ya se ha actuado en este tramo, en el contexto del proyecto "***Eixo de Mobilidade Sostible en Santiago de Compostela***" ejecutado por la Axencia Galega de Infraestructuras de la Xunta de Galicia, financiado con Fondos de la Unión Europea (NetxGenerationEU). Te recomendamos que consultes nuestro [blog](https://www.composcleta.org/blog/) o [los recursos que estamos publicando](/ciclovia-milladoiro-santiago/) sobre este proyecto, para disponer de toda la información actualizada.
+{{% /notice %}}
+
 | Alternativas  | Tramo | Distancia | Descripción
 |---|---|---|---
 | Sin alternativas | Tramo Este-H | 711 m | Este tramo comienza en el cruce de la Rúa das Brañas do Sar en su intersección con la Senda actual hasta llegar a la Rúa das Fontes do Sar justo en el paso subterráneo que atraviesa las vías del tren, enfrente de las pistas de pádel.

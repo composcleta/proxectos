@@ -1,6 +1,7 @@
 +++
 title = 'Propuesta Ciclovía: O Milladoiro - Santiago'
 linktitle = 'Ciclovía Milladoiro-Santiago'
+url = "/ciclovia-milladoiro-santiago"
 date = 2025-03-08T11:11:29+02:00
 draft = false
 weight = 1

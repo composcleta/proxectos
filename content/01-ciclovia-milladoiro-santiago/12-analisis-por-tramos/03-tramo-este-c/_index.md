@@ -7,6 +7,10 @@ weight = 3
 
 Existen 2 alternativas principales. Ambas conectan el paso soterrado de la vía del tren en la Rúa da Poza Real (Conxo) con el parque del Banquete de Conxo.
 
+{{% notice style="warning" %}}
+  En la actualidad se está actuando o ya se ha actuado en este tramo, en el contexto del proyecto "***Eixo de Mobilidade Sostible en Santiago de Compostela***" ejecutado por la Axencia Galega de Infraestructuras de la Xunta de Galicia, financiado con Fondos de la Unión Europea (NetxGenerationEU). Te recomendamos que consultes nuestro [blog](https://www.composcleta.org/blog/) o [los recursos que estamos publicando](/ciclovia-milladoiro-santiago/) sobre este proyecto, para disponer de toda la información actualizada.
+{{% /notice %}}
+
 | Alternativas  | Tramo | Distancia | Descripción
 |---|---|---|---
 | Directa y paraleta al tren | Tramo Este-C1+a (previo túnel) y Tramo Este-C1+b (salida túnel) | 1.709 m | Continúa paralelo a las vías del tren por una pista asfaltada que da acceso a unas viviendas, donde se convierte en un sendero que termina siendo intransitable por haberse derrumbado parte del mismo y que accedería directamente al túnel abandonado del antiguo trazado de vía. Atravesando el túnel, se desciende por diferentes opciones de senderos en dirección al parque del Banquete de Conxo.

@@ -7,6 +7,10 @@ weight = 5
 
 Existen 2 alternativas principales. Ambas conectan el paso soterrado de la vía del tren en la Rúa da Poza Real (Conxo) con el parque del Banquete de Conxo
 
+{{% notice style="warning" %}}
+  En la actualidad se está actuando o ya se ha actuado en este tramo, en el contexto del proyecto "***Eixo de Mobilidade Sostible en Santiago de Compostela***" ejecutado por la Axencia Galega de Infraestructuras de la Xunta de Galicia, financiado con Fondos de la Unión Europea (NetxGenerationEU). Te recomendamos que consultes nuestro [blog](https://www.composcleta.org/blog/) o [los recursos que estamos publicando](/ciclovia-milladoiro-santiago/) sobre este proyecto, para disponer de toda la información actualizada.
+{{% /notice %}}
+
 | Alternativas  | Tramo | Distancia | Descripción
 |---|---|---|---
 | Aprovechamiento vial asfaltado | Tramo Este-F1 | 1.120 m | Después de cruzar la SC-11 por el paso subterráneo esta alternativa toma la Rúa da Ponte Pereda y la Rúa do Río Arriba, hasta confluir con la otra alternativa por el paseo que circula paralelo a la Rúa do Escultor Camilo Otero hasta la rotonda de la Rúa do Restollal.

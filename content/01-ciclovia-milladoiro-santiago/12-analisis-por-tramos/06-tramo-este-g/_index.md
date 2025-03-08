@@ -5,6 +5,10 @@ draft = false
 weight = 6
 +++
 
+{{% notice style="warning" %}}
+  En la actualidad se está actuando o ya se ha actuado en este tramo, en el contexto del proyecto "***Eixo de Mobilidade Sostible en Santiago de Compostela***" ejecutado por la Axencia Galega de Infraestructuras de la Xunta de Galicia, financiado con Fondos de la Unión Europea (NetxGenerationEU). Te recomendamos que consultes nuestro [blog](https://www.composcleta.org/blog/) o [los recursos que estamos publicando](/ciclovia-milladoiro-santiago/) sobre este proyecto, para disponer de toda la información actualizada.
+{{% /notice %}}
+
 | Alternativas  | Tramo | Distancia | Descripción
 |---|---|---|---
 | Sin alternativas | Tramo Este-G | 1.510 m | Este tramo comprende desde la rotonda del comienzo de la Rúa Restollal hasta la Rúa das Brañas do Sar, en las inmediaciones del Multiusos del Sar.

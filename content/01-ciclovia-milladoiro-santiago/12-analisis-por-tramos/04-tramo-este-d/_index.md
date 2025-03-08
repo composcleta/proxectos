@@ -5,6 +5,10 @@ draft = false
 weight = 4
 +++
 
+{{% notice style="warning" %}}
+  En la actualidad se está actuando o ya se ha actuado en este tramo, en el contexto del proyecto "***Eixo de Mobilidade Sostible en Santiago de Compostela***" ejecutado por la Axencia Galega de Infraestructuras de la Xunta de Galicia, financiado con Fondos de la Unión Europea (NetxGenerationEU). Te recomendamos que consultes nuestro [blog](https://www.composcleta.org/blog/) o [los recursos que estamos publicando](/ciclovia-milladoiro-santiago/) sobre este proyecto, para disponer de toda la información actualizada.
+{{% /notice %}}
+
 | Alternativas  | Tramo | Distancia | Descripción
 |---|---|---|---
 | Sin alternativas | Tramo Este-D | 749 m | Partiendo el parque del Banquete de Conxo, del paseo fluvial de las Brañas do Sar, continua paralelo al río hasta llegar al paso soterrado que atraviesa la Avenida de Santiago de Cuba (SC-11) y las vías del tren, donde se bifurcan hacia Pontevedra y Ourense.
