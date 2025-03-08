@@ -49,5 +49,5 @@ alwaysopen = false
 [[menu.shortcuts]]
     name = "<i class='fas fa-code-branch'></i> Contribuir"
     identifier = "contributing"
-    url = "https://gitlab.com/enrique.agrasar/wiki/-/blob/main/CONTRIBUTING.md"
+    url = "https://github.com/composcleta/proxectos"
     weight = 15
