@@ -12,6 +12,22 @@ Existen 2 alternativas.  Ambas conectan la SC-20 desde el paso elevado que la at
 | Paso inferior a la rotonda de Volta do Castro | Tramo Oeste-B1 | 1.370 m | Continuando por la SC-20 por la margen izquierda en dirección Santiago, implicaría la construcción de un paso inferior a la rotonda de Volta do Castro.
 | Evitanto rotonda. Aprovechando un tramo del camino de Santiago | Tramo Oeste-B2 | 1.340 m | Esta alternativa evita el paso de la rotonda de Volta do Castro, a través del enlace de la margen derecha de la SC-20 en dirección Santiago, con un tramo del Camino de Santiago.
 
+- [Tramo Oeste-B1](#tramo-oeste-b1)
+  - [Estado actual tramo Oeste-B1](#estado-actual-tramo-oeste-b1)
+    - [Fortalezas tramo Oeste-B1](#fortalezas-tramo-oeste-b1)
+    - [Debilidades tramo Oeste-B1](#debilidades-tramo-oeste-b1)
+  - [Estado con ciclovía tramo Oeste-B1](#estado-con-ciclovía-tramo-oeste-b1)
+    - [Oportunidades tramo Oeste-B1](#oportunidades-tramo-oeste-b1)
+    - [Amenazas tramo Oeste-B1](#amenazas-tramo-oeste-b1)
+- [Tramo Oeste-B2](#tramo-oeste-b2)
+  - [Estado actual tramo Oeste-B2](#estado-actual-tramo-oeste-b2)
+    - [Fortalezas tramo Oeste-B2](#fortalezas-tramo-oeste-b2)
+    - [Debilidades tramo Oeste-B2](#debilidades-tramo-oeste-b2)
+  - [Estado con ciclovía tramo Oeste-B2](#estado-con-ciclovía-tramo-oeste-b2)
+    - [Oportunidades tramo Oeste-B2](#oportunidades-tramo-oeste-b2)
+    - [Amenazas tramo Oeste-B2](#amenazas-tramo-oeste-b2)
+- [Perfil del Tramo](#perfil-del-tramo)
+
 Este tramo comienza en el punto en el que termina la zona común de las alternativas Este-B1 y Este-B2, la zona del paso elevado que atraviesa la SC-20. A partir de aquí, existirían dos alternativas, cuya elección viene principalmente condicionada por la forma de afrontar el paso desde la SC-20 a la altura del viaducto Ponte da Rocha, hasta la Rúa Volta do Castro.
 
 ![Debajo del tablero (ampliado) da Ponte da Rocha, mirando en dirección sur (O Milladoiro)](img/tramo-oeste-b-debajo-tablero-ponte-da-rocha.png)
