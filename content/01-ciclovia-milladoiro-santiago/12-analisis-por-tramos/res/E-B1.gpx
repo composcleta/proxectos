@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2019-04-29T08:59:07.081Z</time>
+  <bounds minlat="42.857075192" minlon="-8.571974887" maxlat="42.860147291" maxlon="-8.569555986"/>
+  <trk>
+    <name>E-B1</name>
+    <trkseg>
+      <trkpt lat="42.857075192" lon="-8.571485245">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857181834" lon="-8.571411713">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858369479" lon="-8.571910300">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858607055" lon="-8.571974887">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.859099390" lon="-8.571964910">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.859582447" lon="-8.571531185">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.859774465" lon="-8.571492109">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.859914001" lon="-8.571393132">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.860008194" lon="-8.571288554">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.860147291" lon="-8.571134191">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.859596869" lon="-8.569837868">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.859563990" lon="-8.569555986">
+        <ele>0.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

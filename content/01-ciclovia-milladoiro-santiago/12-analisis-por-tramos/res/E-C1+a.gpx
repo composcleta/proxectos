@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2019-04-29T08:59:47.568Z</time>
+  <bounds minlat="42.857761271" minlon="-8.569543995" maxlat="42.859557830" maxlon="-8.561325289"/>
+  <trk>
+    <name>E-C1+a</name>
+    <trkseg>
+      <trkpt lat="42.858230344" lon="-8.561325289">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858101015" lon="-8.561864216">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857961567" lon="-8.562388173">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857871498" lon="-8.562885738">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857784997" lon="-8.563552585">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857767663" lon="-8.563990972">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857761271" lon="-8.564360136">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857859238" lon="-8.565189664">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857931079" lon="-8.565484562">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858036070" lon="-8.565692754">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858221020" lon="-8.566046185">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858471858" lon="-8.566114110">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858562898" lon="-8.566200159">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858692463" lon="-8.566618984">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858781485" lon="-8.567013710">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858834076" lon="-8.567353851">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858833037" lon="-8.567481437">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858744135" lon="-8.567634851">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.859304818" lon="-8.568922529">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.859557830" lon="-8.569543995">
+        <ele>0.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

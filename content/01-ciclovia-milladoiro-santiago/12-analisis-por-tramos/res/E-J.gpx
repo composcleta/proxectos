@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2019-04-29T09:03:26.445Z</time>
+  <bounds minlat="42.880475758" minlon="-8.528876382" maxlat="42.881040536" maxlon="-8.526707754"/>
+  <trk>
+    <name>E-J</name>
+    <trkseg>
+      <trkpt lat="42.881040536" lon="-8.528876382">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.880966331" lon="-8.528445261">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.880616907" lon="-8.527279745">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.880475758" lon="-8.526707754">
+        <ele>0.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

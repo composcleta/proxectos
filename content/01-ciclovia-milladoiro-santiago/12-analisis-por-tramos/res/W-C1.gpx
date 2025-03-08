@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2019-04-29T08:53:04.330Z</time>
+  <bounds minlat="42.866392804" minlon="-8.564065676" maxlat="42.873071466" maxlon="-8.553447182"/>
+  <trk>
+    <name>W-C1</name>
+    <trkseg>
+      <trkpt lat="42.866392804" lon="-8.564065676">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.871270965" lon="-8.556882486">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.872100966" lon="-8.555411513">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.872161481" lon="-8.555017436">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.873071466" lon="-8.553447182">
+        <ele>0.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

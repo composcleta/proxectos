@@ -7,6 +7,9 @@ weight = 12
 
 En este apartado se describe en detalle cada segmento del recorrido, realizando un análisis de las condiciones del tramo y aportando en ocasiones sugerencias acerca de propuestas de adaptabilidad, mejoras, o mínimos necesarios para que resulten aceptables desde el punto de vista del colectivo de movilidad ciclista.
 
+- [Tabla de segmentos](#tabla-de-segmentos)
+- [Ficheros adjuntos (gpx y kml)](#ficheros-adjuntos-gpx-y-kml)
+
 A fin de exponer la propuesta de recorrido y dado que cada punto o segmento de este tiene sus propias particularidades, **se ha realizado una separación por tramos atendiendo a que cada uno tenga unas condiciones similares y puedan aplicarse unas medidas de adaptación comunes**.
 
 **El mecanismo para identificar cada uno de estos tramos** ha sido el siguiente:
@@ -18,6 +21,8 @@ A fin de exponer la propuesta de recorrido y dado que cada punto o segmento de e
 - Los segmentos de cada ramal comenzarán a identificarse por la letra `B` en adelante, precediendo `W` o `E`, dependiendo del ramal al que pertenezca el tramo.
 
 - Un segmento puede tener varias alternativas de trazado. Para ello, se identifica el segmento con un número desde el `1` en adelante, que representa orden de preferencia según la idoneidad de la propuesta para el recorrido. Por ej. la propuesta de segmento `I1` será más idónea que la `I3`.
+
+## Tabla de segmentos
 
 A continuación se presenta la tabla que identifica cada segmento y la distancia del mismo.
 
@@ -42,6 +47,12 @@ Y a continuación las distancias totales de la infraestructura:
 | Total Ramal Oeste (+1.100m tramo A) | 3.490 m |
 | Total Ramal Este(+1.100m tramo A)   | 7.676 m |
 | **Total Infraestructura**           | **12.266 m** |
+
+## Ficheros adjuntos (gpx y kml)
+
+{{% resources expanded="true" style="info" icon="fas fa-paperclip" title="Trazados en GPX" sort="asc" pattern="\.(gpx)" /%}}
+
+{{% resources expanded="true" style="info" icon="fas fa-paperclip" title="Trazados en KML" sort="asc" pattern="\.(kml)" /%}}
 
 <!-- Enlaces -->
 [A]: 01-tramo-a/ 'Tramo A'

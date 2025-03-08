@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2019-04-29T09:03:15.156Z</time>
+  <bounds minlat="42.878463093" minlon="-8.529557452" maxlat="42.881035359" maxlon="-8.528876463"/>
+  <trk>
+    <name>E-I</name>
+    <trkseg>
+      <trkpt lat="42.881035359" lon="-8.528876463">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.880068190" lon="-8.529412679">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.879643108" lon="-8.529427013">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.879600573" lon="-8.529543017">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.879430538" lon="-8.529557452">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.879377442" lon="-8.529383401">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.879175555" lon="-8.529267302">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.878665454" lon="-8.529281608">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.878463093" lon="-8.529310508">
+        <ele>0.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
