@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2019-04-29T09:00:19.933Z</time>
+  <bounds minlat="42.856978246" minlon="-8.559368074" maxlat="42.858611226" maxlon="-8.552050939"/>
+  <trk>
+    <name>E-C1+b</name>
+    <trkseg>
+      <trkpt lat="42.858610977" lon="-8.559368074">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858611226" lon="-8.558330889">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858486375" lon="-8.557644562">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858343032" lon="-8.557224798">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858084601" lon="-8.556542836">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857721543" lon="-8.555827873">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857577271" lon="-8.555540878">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857439153" lon="-8.555112988">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857168556" lon="-8.554220623">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857059455" lon="-8.553761329">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.856978246" lon="-8.553273687">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857025802" lon="-8.552794344">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857066921" lon="-8.552208134">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857232137" lon="-8.552050939">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.857923105" lon="-8.552267697">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858369261" lon="-8.552789073">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.858487000" lon="-8.552818874">
+        <ele>0.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

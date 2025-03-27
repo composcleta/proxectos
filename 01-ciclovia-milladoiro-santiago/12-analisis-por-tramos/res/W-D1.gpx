@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2019-04-29T08:53:22.885Z</time>
+  <bounds minlat="42.873107175" minlon="-8.553392656" maxlat="42.876987787" maxlon="-8.546219693"/>
+  <trk>
+    <name>W-D1</name>
+    <trkseg>
+      <trkpt lat="42.873107175" lon="-8.553392656">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.875154534" lon="-8.550911442">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.875906636" lon="-8.549304780">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.876987787" lon="-8.546219693">
+        <ele>0.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

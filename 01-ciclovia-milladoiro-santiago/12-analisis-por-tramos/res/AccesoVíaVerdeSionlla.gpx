@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2019-04-29T09:04:53.945Z</time>
+  <bounds minlat="42.887046530" minlon="-8.521130467" maxlat="42.917823120" maxlon="-8.486650899"/>
+  <trk>
+    <name>Acceso Vía Verde Sionlla</name>
+    <trkseg>
+      <trkpt lat="42.887130519" lon="-8.521130467">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.887734191" lon="-8.520963894">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.887046530" lon="-8.516942354">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.887677071" lon="-8.516734849">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.887979801" lon="-8.516282083">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.889105736" lon="-8.515602481">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.889953168" lon="-8.515122617">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.891838122" lon="-8.510907172">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.891553309" lon="-8.510312135">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.891441635" lon="-8.509754754">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.891710847" lon="-8.509658941">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.892018841" lon="-8.509427695">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.892591040" lon="-8.508563240">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.893945721" lon="-8.508739564">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.894385077" lon="-8.508238365">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.895748008" lon="-8.506899452">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.897571625" lon="-8.505381285">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.898204044" lon="-8.504957958">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.898958890" lon="-8.504562256">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.900092396" lon="-8.504073384">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.900986709" lon="-8.503797999">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.902464280" lon="-8.502351027">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.904079239" lon="-8.500004112">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.905379956" lon="-8.498105134">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.909700299" lon="-8.491688982">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.912829708" lon="-8.495303076">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.913626080" lon="-8.494140994">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.914332602" lon="-8.495006590">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.915593798" lon="-8.493185273">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.917823120" lon="-8.489557419">
+        <ele>0.000000</ele>
+      </trkpt>
+      <trkpt lat="42.916264701" lon="-8.486650899">
+        <ele>0.000000</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
