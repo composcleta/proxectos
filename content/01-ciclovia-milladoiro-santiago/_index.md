@@ -16,7 +16,6 @@ El objeto de esta propuesta fue reclamar un recorrido entre Santiago de Composte
 
 ## Recusos sobre el proyecto
 
-<!-- {{% resources title="Recursos sobre el proyecto" style="primary" sort="asc" pattern=".*\.(pdf|txt)" /%}} -->
 En estos enlaces dispones de los recursos en PDF de la propuesta:
 
 - [Redacción completa del Proyecto original de Composcleta en PDF (122 páginas)][1]
@@ -26,6 +25,7 @@ En estos enlaces dispones de los recursos en PDF de la propuesta:
 - [Xunta de Galicia - Antecedentes de la propuesta][4] 🆕
 - [Xunta de Galicia - Memoria do Proxecto][5] 🆕
 - [Mapa de la EJECUCIÓN de la ciclovía a Milladoiro por la Xunta de Galicia junto con nuestra propuesta original][6] 🆕
+- [2025-FEB18 Comunicado de Composcleta en relación al proyecto de la Xunta de Galicia de ciclovía que conectará Milladoiro con Santiago][8] 🆕
 
 ## Nuestra propuesta original
 
@@ -67,3 +67,4 @@ Se quiere **enfatizar** no obstante en la idea del sentir general de Composcleta
 [5]: https://drive.google.com/file/d/10_tEl0HtElrVm97EtXQZvkUpub3ZiyDy/view?usp=sharing 'Xunta de Galicia - Memoria do Proxecto'
 [6]: https://drive.google.com/file/d/1ALwj274U47tAE5LwMOsUdKVe-AQqU_mp/view?usp=sharing 'DINA0-EJECUCIÓN-Y-PROPUESTA-VIA-MILLADOIRO'
 [7]: https://drive.google.com/file/d/1zBQiwCCuQctZGMwNDts4Npmw2EhThXmW/view?usp=sharing 'Resumen Propuesta SCQ - Milladoiro.pdf'
+[8]: https://drive.google.com/file/d/1layWz_Rr7YfEMFEj_kPTDQTagU9Ht_YV/view?usp=sharing '202503FEB18 Comunicado de Composcleta en relación al proyecto de la Xunta de ciclovía Milladoiro Santiago'
