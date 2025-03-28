@@ -43,7 +43,7 @@ alwaysopen = false
 [[menu.shortcuts]]
     name = "<i class='fas fa-code-branch'></i> Home Web"
     identifier = "homeComposcletaOrg"
-    url = "https:/www.composcleta.org"
+    url = "https://www.composcleta.org"
     weight = 1
 
 [[menu.shortcuts]]
